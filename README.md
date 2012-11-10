@@ -5,6 +5,7 @@ This is a command line utility with a sinatra server wrapper designed as a build
 <http://dreamcheeky.com/storm-oic-missile-launcher>
 
 __Setup__
+* bundle install
 * Download the missle launcher app
 * Open the missle app one
 * Click preferences, disable camera on startup
